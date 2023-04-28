@@ -8,7 +8,7 @@ author: Viking Lee
 
 toc: true
 comments: true
-typora-root-url: ../../VikingLeeCoding.github.io
+typora-root-url: ../../vikingleecoding.github.io
 math: false
 mermaid: true
 ---
