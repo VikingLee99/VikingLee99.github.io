@@ -29,5 +29,3 @@ int main(){
 ```
 
 
-
-![image-20230428204137873](/assets/blog_res/2022-03-30-first-post.assets/image-20230428204137873.png)
