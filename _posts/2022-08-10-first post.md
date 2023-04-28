@@ -24,4 +24,6 @@ int main(){
 }
 ```
 
-![image-20230428205309333](/../blog/assets/blog_res/2022-08-10-first.assets/image-20230428205309333.png)
+啦啦啦啦
+
+![image-20230428205321492](/../blog/assets/blog_res/2022-08-10-first%20post.assets/image-20230428205321492.png)
